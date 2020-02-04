@@ -1,4 +1,4 @@
-require 'test_helper'
+rquire 'test_helper'
 
 class StaticPagesControllerTest < ActionDispatch::IntegrationTest
 
